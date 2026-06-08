@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Remix: Remix: TikTube Tools",
+  "description": "The ultimate completely free multi-tool platform for YouTube CTR, watermark-free TikTok downloads, image processing, and AI copywriting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
